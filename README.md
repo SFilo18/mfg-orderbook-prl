@@ -60,8 +60,8 @@ With a 1% fee and 5% informed flow, the spread is now determined by competition 
 ## Reproducing the results
 
 ```bash
-git clone https://github.com/SFilo18/PRL_tests.git
-cd PRL_tests
+git clone https://github.com/SFilo18/mfg-orderbook-prl.git
+cd mfg-orderbook-prl
 pip install numpy scipy matplotlib joblib jupyter
 jupyter notebook
 ```
